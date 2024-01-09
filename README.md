@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Personal-Website](https://github.com/aliefadityanugraha/Personal-Website)
 
-- 🌱 I’m currently learning **NodeJs, Typescript, PHP, Laravel, ExpressJs, NextJs**
+- 🌱 I’m currently learning **NodeJs, Javascript, Typescript, PHP, Laravel, ExpressJs, NextJs**
 
 - 👯 I’m looking to collaborate on **I'm not collaborating at the moment**
 
