@@ -7,19 +7,10 @@
 
 - 🌱 I’m currently learning **NodeJs, Javascript, Typescript, PHP, Laravel, ExpressJs, NextJs**
 
-- 👯 I’m looking to collaborate on **I'm not collaborating at the moment**
-
-- 🤝 I’m looking for help with [appsch](https://github.com/aliefadityanugraha/appsch)
-
-- 👨‍💻 All of my projects are available at [https://github.com/aliefadityanugraha](https://github.com/aliefadityanugraha)
-
-- 💬 Ask me about **NodeJs, Typescript**
-
 - 📫 How to reach me **adty.nv@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/aliefadityanugraha](https://github.com/aliefadityanugraha)
 
-- ⚡ Fun fact **I'm often bored**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
